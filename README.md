@@ -3,5 +3,5 @@ Command line tool/ python library that implements handwriting analysis with a da
 
 Tech Stack: Google Vision API, Pandas, OpenCV.
 
-# TODO
+## TODO
 Implement NLU with a BERT model to replace regex for form field detection.
